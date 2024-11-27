@@ -4,7 +4,7 @@ npm i
 ```
 ### Running
 ```
-node app.js
+node index.js
 ```
 ### API Call
 ```
