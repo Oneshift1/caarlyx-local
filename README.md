@@ -1,3 +1,6 @@
+### Install Node
+Using nvm or any equivalent Node.js version manager, install `v22.11.0` (LTS) or `v23.3.0`
+
 ### Installing
 ```
 npm i
